@@ -5,7 +5,8 @@
 ##  Project Overview
 A production-focused machine learning classification project designed to predict heart failure patient outcomes. Because this is a clinical use case, the project prioritizes model interpretability and minimizing false negatives.
 
-<img width="461" height="358" alt="image" src="https://github.com/user-attachments/assets/367165df-5765-4460-ba5c-2fc7a114b7ff" />
+<img width="206" height="209" alt="image" src="https://github.com/user-attachments/assets/cc6d4e8f-fb2a-40d6-8375-b37b8e1e9749" />
+
 
 ## Key Methodologies & Workflow
 * **Clinical Metric Optimization:** Tuned the classification threshold to strictly optimize for **Recall**, ensuring high-risk patients are not missed.
