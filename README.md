@@ -1,5 +1,7 @@
 # Heart Failure Risk Prediction
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/XAI-SHAP-blueviolet?style=for-the-badge)
 ##  Project Overview
 A production-focused machine learning classification project designed to predict heart failure patient outcomes. Because this is a clinical use case, the project prioritizes model interpretability and minimizing false negatives.
 
